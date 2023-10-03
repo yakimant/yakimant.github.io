@@ -9,7 +9,7 @@ theme = 'hugo-coder'
   info = "Lead DevOps Engineer"
   description = "Anton Iakimov's personal website"
   keywords = "devops,personal"
-  gravatar = "yakimant@gmail.com"
+  avatarURL = "https://gravatar.com/userimage/3933478/92312e31111fa0f8bea662b198bafec8.jpeg?size=240"
 
   since = 2023
 
